@@ -1,0 +1,119 @@
+
+
+.band_pic {
+  width: 100%;
+  padding: 10px;
+  
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+body {
+  background-image: url(https://img.freepik.com/free-vector/cat-lover-pattern-background-design_53876-100662.jpg?w=2000);
+}
+ 
+
+.jtek {
+  width: 10%;
+  
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+
+
+.navbar-brand {
+  margin-right: -100px !important;
+
+
+}
+
+
+
+.logo {
+  width: 90%;
+}
+ 
+.menu {
+  width: 100%;
+  background-color: gray;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 1500px;
+  border-radius: 30px;
+}
+
+.videomenu {
+  width: 100%;
+  background-color: gray;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 1500px;
+  border-radius: 30px;
+}
+
+.heading {
+  color: black;
+
+}
+
+.copywright {
+  color: black;
+  font-family: ariel;
+  font-size: 17px;
+
+}
+
+.nav-link {
+  color: gray;
+
+}
+
+.paper {
+  color: black;
+  background-color: peachpuff;
+  float: right;
+  width: 500px;
+  height: 200px;
+}
+
+.blacktext {
+  color: black;
+}
+
+.adam {
+  width: 50%;
+  float: right;
+  padding: 10px;
+}
+.jimbo {
+  width: 40%;
+  float: left;
+  padding: 10px;
+}
+..flavor {
+  width: 500px;
+  float: right;
+
+
+}
+
+.h3txt {  
+  font-family: Copperplate Gothic Light;
+  font-size:;
+  font-style: ;
+
+}
+
+.handwrighting {  
+  font-family: brush script mt, cursive;
+  text-align: ;
+  font-size: 25px;
+
+}

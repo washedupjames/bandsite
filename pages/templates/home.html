@@ -1,0 +1,79 @@
+
+{% extends 'base.html' %}
+{% load static %}         
+
+{% block title %}Welcome to James Parker.org{% endblock %}
+
+{% block content %}
+
+
+
+<link href="{% static 'styles.css' %}" rel="stylesheet">
+
+<div>
+  <center><h3 class=h3txt>Welcome to CatNap HQ</h3></center>
+</div>
+
+
+	
+
+<div class="menu">
+      <main>
+  
+<div class=band_pic>
+
+  <img src="{% static 'images/band.png' %}"width="100%">
+</div>
+
+  </main>
+</div>
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
+<div class="menu">
+      <main>
+
+	<center><p>CatNap are a Emo Two Piece from Sunny Worthing</p></center>
+		<h2><center><p>We are....</p></center></h2>
+
+
+<div class="row row-cols-1 row-cols-md-2 g-4">
+  <div class="col">
+    <div class="card border-info mb-100 card text-white bg-dark mb-3">
+      <img src="{% static 'images/james_beach.png' %}" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">James</h5>
+        <p class="card-text">Lead Computer programmer, and Nigerian cook in CatNap.</p>
+        <a href="{% url 'about' %}" class="btn btn-primary">About James</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card border-info mb-100 card text-white bg-dark mb-3">
+      <img src="{% static 'images/adam.jpg' %}" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Adam</h5>
+        <p class="card-text">Lead drummer and alpha male in CatNap</p>
+        <a href="{% url 'about' %}" class="btn btn-primary">About Adam</a>
+      </div>
+    </div>
+  </div>
+    </main>
+</div>
+
+
+  
+
+
+
+
+  
+
+
+{% endblock %}
+

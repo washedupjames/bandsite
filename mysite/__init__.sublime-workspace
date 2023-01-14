@@ -1,0 +1,329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"E",
+				"EMAIL_HOST_PASSWORD"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"S",
+				"StockForm"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"u",
+				"update_session_auth_hash"
+			],
+			[
+				"pass",
+				"password1"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"red",
+				"redirect"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/django_projects/site",
+		"/C/django_projects/site/mysite",
+		"/C/django_projects/site/mysite/mysite",
+		"/C/django_projects/site/mysite/mysite/__pycache__",
+		"/C/django_projects/site/mysite/pages",
+		"/C/django_projects/site/mysite/pages/templates"
+	],
+	"file_history":
+	[
+		"/C/django_projects/dental/dental/website/urls.py",
+		"/C/django_projects/dental/dental/static/website/css/style.css",
+		"/C/django_projects/dental/dental/website/templates/contact.html",
+		"/C/django_projects/dental/dental/website/templates/home.html",
+		"/C/django_projects/dental/dental/website/views.py",
+		"/C/django_projects/dental/dental/dental/settings.py",
+		"/C/django_projects/dental/dental/static/website/css/style2.css",
+		"/C/django_projects/dental/dental/dental/gat.py",
+		"/C/django_projects/dental/dental/Procfile",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/2.jpg",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/1.jpg",
+		"/C/django_projects/dental/dental/static/website/img/core-img/jtektp.png",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/13.jpg",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/12.jpg",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/18.jpg",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/19.jpg",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/17.jpg",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/16.jpg",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/15.jpg",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/14.jpg",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/11.png",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/10.png",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/adds.png",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/9.png",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/9.jpg",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/8.jpg",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/7.jpg",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/6.jpg",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/5.jpg",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/4.jpg",
+		"/C/django_projects/dental/dental/static/website/img/bg-img/3.jpg",
+		"/C/django_projects/dental/dental/static/website/js/dento.bundle.js",
+		"/C/django_projects/dental/dental/dental/urls.py",
+		"/C/Users/parke/OneDrive/Desktop/page.html",
+		"/C/django_projects/djangostock/stocks/quotes/views.py",
+		"/C/django_projects/djangostock/stocks/quotes/forms.py",
+		"/C/django_projects/djangostock/stocks/quotes/models.py",
+		"/C/django_projects/djangostock/stocks/quotes/templates/add_stock.html",
+		"/C/django_projects/djangostock/stocks/Procfile",
+		"/C/django_projects/djangostock/stocks/requirements.txt",
+		"/C/django_projects/djangostock/stocks/quotes/templates/delete_stock.html",
+		"/C/django_projects/djangostock/stocks/quotes/templates/base.html",
+		"/C/django_projects/djangostock/stocks/quotes/urls.py",
+		"/C/django_projects/djangostock/stocks/stocks/settings.py",
+		"/C/django_projects/djangostock/stocks/quotes/templates/about.html",
+		"/C/django_projects/djangostock/stocks/stocks/wsgi.py",
+		"/C/django_projects/djangostock/stocks/quotes/templates/home.html",
+		"/C/django_projects/djangostock/stocks/stocks/urls.py",
+		"/C/django_projects/djangostock/stocks/quotes/templates/forms.py",
+		"/C/django_projects/djangostock/stocks/quotes/admin.py",
+		"/C/django_projects/my_site/authenticate/views.py",
+		"/C/django_projects/my_site/authenticate/templates/authenticate/home.html",
+		"/C/django_projects/my_site/authenticate/models.py",
+		"/C/django_projects/my_site/authenticate/forms.py",
+		"/C/django_projects/my_site/authenticate/templates/authenticate/register.html",
+		"/C/django_projects/my_site/authenticate/templates/authenticate/edit_profile.html",
+		"/C/django_projects/my_site/authenticate/templates/authenticate/change_password.html",
+		"/C/django_projects/my_site/authenticate/urls.py",
+		"/C/django_projects/my_site/authenticate/templates/authenticate/base.html",
+		"/C/django_projects/my_site/authenticate/templates/authenticate/login.html",
+		"/C/django_projects/my_site/authenticate/templates/authenticate/forms.py",
+		"/C/django_projects/my_site/manage.py",
+		"/C/django_projects/my_site/mysite/urls.py",
+		"/C/django_projects/my_site/mysite/settings.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"form",
+			"EMAIL_HOST_PASSWORD",
+			"bread",
+			"            \n",
+			"logo",
+			"scr",
+			"logo",
+			"scr=",
+			"logo",
+			"classy-n",
+			"float",
+			"logo",
+			"{",
+			"face",
+			"home",
+			"{% static 'web\n",
+			"{% static 'website/' %}\n",
+			"png",
+			"jpg",
+			"css",
+			"jack",
+			"jt",
+			"jpg",
+			"tit",
+			"jack",
+			"png",
+			"jpg",
+			"css",
+			"jp",
+			"jpg",
+			"css",
+			"jpg",
+			"jpe",
+			"css",
+			".css",
+			"jpg",
+			"1.jp",
+			"jpg",
+			"<br/>",
+			"quotes.for",
+			"quo",
+			"sear",
+			"mf",
+			"login",
+			"hom",
+			"link",
+			"    \n",
+			"offc",
+			"last_nameee",
+			"lg",
+			"expand",
+			"admin",
+			"enter email",
+			"home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "__init__.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

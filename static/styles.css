@@ -26,7 +26,7 @@ body {
 
 
 
-.navbar-brand {
+.bar-brand {
   margin-right: -100px !important;
 
 
@@ -118,4 +118,6 @@ body {
 
 }
 
-.
+.navbar-toggler-icon {
+  color: black;
+}

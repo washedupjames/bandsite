@@ -10,15 +10,42 @@
 
 
 {% block content %}
-<br></br>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="{% static 'styles.css' %}" rel="stylesheet">
-<link href="{% static 'styles2.css' %}" rel="stylesheet">
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Video Listing Website</title>
+</head>
+<body>
+	<h1>Video Listing Website</h1>
 
-
-
-<h1>hello</h1>
-
+	<ul>
+		<li>
+			<h2>Video Title 1</h2>
+			<video width="320" height="240" controls>
+  				<source src="video1.mp4" type="video/mp4">
+  				Your browser does not support the video tag.
+			</video>
+			<p>Description of Video 1</p>
+		</li>
+		<li>
+			<h2>Video Title 2</h2>
+			<video width="320" height="240" controls>
+  				<source src="video2.mp4" type="video/mp4">
+  				Your browser does not support the video tag.
+			</video>
+			<p>Description of Video 2</p>
+		</li>
+		<li>
+			<h2>Video Title 3</h2>
+			<video width="320" height="240" controls>
+  				<source src="video3.mp4" type="video/mp4">
+  				Your browser does not support the video tag.
+			</video>
+			<p>Description of Video 3</p>
+		</li>
+	</ul>
+</body>
+</html>
 
 
 

@@ -19,3 +19,6 @@ def videos(request):
 
 def gigs(request):
 	return render(request, "gigs.html", {})
+
+def login(request):
+	return render(request, "login.html", {})

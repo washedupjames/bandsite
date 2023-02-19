@@ -230,6 +230,9 @@ body {
     .video-description {
       flex: 1;
       padding: 20px;
+      overflow: auto;
+      -webkit-overflow-scrolling: touch;
+      min-height: 130px;
     }
 
     /* Style for the video title */
